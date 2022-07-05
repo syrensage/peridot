@@ -1,0 +1,90 @@
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+.about-us {
+  text-align: center;
+  font-family: cursive;
+}
+.current {
+  color: white;
+  display: inline;
+  padding: 6em;
+}
+.current:hover {
+  color: rgb(48, 128, 48);
+}
+
+body {
+  background-image: linear-gradient(
+    rgba(17, 85, 17, 0.863),
+    rgba(117, 151, 117, 0.719)
+  );
+}
+
+.navbar {
+  background: rgb(221, 127, 4);
+  padding: 0.5em;
+  font-family: cursive;
+}
+
+p {
+  text-align: left;
+}
+
+.nail-pic-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul.primary-nav {
+  list-style-type: none;
+}
+
+ul.secondary-nav {
+  list-style-type: none;
+}
+
+.site-map {
+  text-align: center;
+}
+
+.past {
+  color: rgb(48, 83, 48);
+  display: inline;
+  padding: 8em;
+}
+
+.past:hover {
+  color: rgb(228, 222, 222);
+}
+
+.bottom {
+  background: rgb(231, 162, 34);
+  padding: 0.5em;
+  font-family: cursive;
+}
+
+body {
+  margin: 0;
+}
+iframe {
+  width: 100%;
+  height: 100vh;
+}
+
+.slideshow-picture {
+  object-fit: contain;
+}
+
+.hero {
+  background-color: rgb(212, 226, 209);
+  width: 80%;
+  padding: 1em;
+  margin: auto;
+}
+
+.nail-pic-1 {
+  padding: 2em;
+}
